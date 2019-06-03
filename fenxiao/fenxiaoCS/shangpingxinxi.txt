@@ -1,0 +1,3 @@
+commodityCode,reservationNum,commodityPrice
+qnesp1033001,10,6
+qnesp1026201,10,148
